@@ -1,0 +1,11 @@
+Package: HudsonRIFdata
+Type: Package
+Title: Auxillary data for HudsonRIF package
+Version: 1.0
+Date: 2013-10-31
+Author: Kevin Rue-Albrecht and Paul McGettigan
+Maintainer: Kevin Rue-Albrecht <kevin.rue@ucdconnect.ie>
+Description: This is a supportive package for the software package, HudsonRIF.
+ In this package we provide the original expression dataset published as
+ supplemental by Hudson and coworkers. (PMID: 19412532)
+License: GPL-2
